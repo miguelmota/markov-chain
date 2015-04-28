@@ -1,4 +1,4 @@
-# flowRight
+# markov-chain
 
 Calculate the probability of the next transition using [Markov Chains](http://en.wikipedia.org/wiki/Markov_chain).
 
