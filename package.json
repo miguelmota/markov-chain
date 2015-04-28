@@ -1,0 +1,29 @@
+{
+  "name": "markov-chain",
+  "version": "0.0.1",
+  "description": "Calculate the probability of the next transition state using Markov Chains.",
+  "main": "markov-chain.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/markov-chain"
+  },
+  "keywords": [
+    "markov",
+    "probability"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/markov-chain/issues"
+  },
+  "homepage": "https://github.com/miguelmota/markov-chain",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
