@@ -4,6 +4,10 @@ Calculate the probability of the next transition state using [Markov Chains](htt
 
 [![NPM](https://nodei.co/npm/markov-chain.png)](https://nodei.co/npm/markov-chain)
 
+# Demo
+
+[http://lab.moogs.io/markov-chain](http://lab.moogs.io/markov-chain)
+
 # Install
 
 ```bash

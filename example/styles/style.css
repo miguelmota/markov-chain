@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  padding: 20px;
+  text-align: left;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.form {
+  display: block;
+}
+
+.form-group {
+  margin: 0 0 15px 0;
+}
+
+.form label {
+  display: block;
+}
