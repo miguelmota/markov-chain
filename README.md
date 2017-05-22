@@ -6,7 +6,7 @@ Calculate the probability of the next transition state using [Markov Chains](htt
 
 # Demo
 
-[http://lab.moogs.io/markov-chain](http://lab.moogs.io/markov-chain)
+[https://lab.miguelmota.com/markov-chain](https://lab.miguelmota.com/markov-chain)
 
 # Install
 
